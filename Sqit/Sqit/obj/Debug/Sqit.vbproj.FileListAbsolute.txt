@@ -1,0 +1,14 @@
+D:\Sqit\Sqit\bin\Debug\Sqit.exe.config
+D:\Sqit\Sqit\bin\Debug\Sqit.exe
+D:\Sqit\Sqit\bin\Debug\Sqit.pdb
+D:\Sqit\Sqit\bin\Debug\Sqit.xml
+D:\Sqit\Sqit\obj\Debug\Sqit.vbproj.AssemblyReference.cache
+D:\Sqit\Sqit\obj\Debug\Sqit.vbproj.SuggestedBindingRedirects.cache
+D:\Sqit\Sqit\obj\Debug\Sqit.Form1.resources
+D:\Sqit\Sqit\obj\Debug\Sqit.Resources.resources
+D:\Sqit\Sqit\obj\Debug\Sqit.vbproj.GenerateResource.cache
+D:\Sqit\Sqit\obj\Debug\Sqit.vbproj.CoreCompileInputs.cache
+D:\Sqit\Sqit\obj\Debug\Sqit.exe
+D:\Sqit\Sqit\obj\Debug\Sqit.xml
+D:\Sqit\Sqit\obj\Debug\Sqit.pdb
+D:\Sqit\Sqit\obj\Debug\Sqit.Form2.resources

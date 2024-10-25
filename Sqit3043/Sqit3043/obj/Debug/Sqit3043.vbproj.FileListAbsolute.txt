@@ -1,0 +1,9 @@
+D:\3043\Sqit3043\Sqit3043\obj\Debug\Sqit3043.vbproj.AssemblyReference.cache
+D:\3043\Sqit3043\Sqit3043\obj\Debug\Sqit3043.vbproj.SuggestedBindingRedirects.cache
+D:\3043\Sqit3043\Sqit3043\obj\Debug\Sqit3043.LoginPage.resources
+D:\3043\Sqit3043\Sqit3043\obj\Debug\Sqit3043.Menu_Category.resources
+D:\3043\Sqit3043\Sqit3043\obj\Debug\Sqit3043.Resources.resources
+D:\3043\Sqit3043\Sqit3043\obj\Debug\Sqit3043.OrderView.resources
+D:\3043\Sqit3043\Sqit3043\obj\Debug\Sqit3043.vbproj.GenerateResource.cache
+D:\3043\Sqit3043\Sqit3043\obj\Debug\Sqit3043.vbproj.CoreCompileInputs.cache
+D:\3043\Sqit3043\Sqit3043\obj\Debug\Sqit3043.checker.resources

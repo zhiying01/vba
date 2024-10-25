@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Sqit", "Sqit\Sqit.vbproj", "{AFA87ED5-98FB-4664-B8B5-6BD28D7BE5B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFA87ED5-98FB-4664-B8B5-6BD28D7BE5B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA87ED5-98FB-4664-B8B5-6BD28D7BE5B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFA87ED5-98FB-4664-B8B5-6BD28D7BE5B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFA87ED5-98FB-4664-B8B5-6BD28D7BE5B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D806EF8-3A44-4E4B-82A6-BF44A293CE5D}
+	EndGlobalSection
+EndGlobal
